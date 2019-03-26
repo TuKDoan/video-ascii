@@ -1,5 +1,5 @@
 
-A ssimple python package to play videos in a terminal using [ASCII](https://en.wikipedia.org/wiki/ASCII) characters.
+A simple python package to play videos in a terminal using [ASCII](https://en.wikipedia.org/wiki/ASCII) characters.
 
 
 ## Requirements
