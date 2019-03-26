@@ -1,7 +1,6 @@
 
 A ssimple python package to play videos in a terminal using [ASCII](https://en.wikipedia.org/wiki/ASCII) characters.
 
-![frames](images/Simpsons.apng)
 
 ## Requirements
 - Python3
@@ -33,9 +32,9 @@ $ ascii-video -f myvideo.mp4
 Allow to choose an strategy to render the output
 
 ```bash
---strategy filled-ascii
---strategy ascii-color
---strategy just-ascii
+$ ascii-video -f myvideo.mp4 --strategy filled-ascii
+$ ascii-video -f myvideo.mp4--strategy ascii-color
+$ ascii-video -f myvideo.mp4 --strategy just-ascii
 ```
 
 
