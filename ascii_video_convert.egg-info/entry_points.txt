@@ -1,0 +1,3 @@
+[console_scripts]
+ascii-video = ascii_video.cli:main
+

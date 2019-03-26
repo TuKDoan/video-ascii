@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: ascii-video
+Version: 1.0.4
+Summary: Convert your videos to ASCII output
+Home-page: https://github.com/tukdoan/ascii-video
+Author: Kevin Doan
+Author-email: k.doan@utexas.edu
+License: MIT
+Project-URL: Source, https://github.com/tukdoan/ascii-video
+Project-URL: Tracker, https://github.com/tukdoan/ascii-video/issues
+Description: Convert your videos to ASCII output
+Keywords: video ascii terminal opencv
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
