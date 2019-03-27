@@ -1,6 +1,7 @@
 
 A simple python package to play videos in a terminal using [ASCII](https://en.wikipedia.org/wiki/ASCII) characters.
 
+![frames](images/KH.gif)
 
 ## Requirements
 - Python3
