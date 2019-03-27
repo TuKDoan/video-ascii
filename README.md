@@ -20,7 +20,7 @@ pip3 install ascii-video --install-option="--with-audio"
 
 ## How to use
 
-Just run `video-to-ascii` in your terminal
+Just run `ascii-video` in your terminal
 
 ```bash
 $ cd ../filepath/
